@@ -54,4 +54,5 @@ WeatherApp is a Javascript-based web application that allows users to retrieve c
 ## Example
 
 Here’s what a typical session might look like:
+![image](https://github.com/user-attachments/assets/c8628cec-8a43-45a7-a63e-8a5639034512)
 
